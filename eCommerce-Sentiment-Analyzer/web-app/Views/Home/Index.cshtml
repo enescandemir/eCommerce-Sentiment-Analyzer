@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Ana Sayfa";
+}
+
+<link rel="stylesheet" href="~/css/home.css" asp-append-version="true" />
+
+<div class="home-container">
+    <h1>Hoşgeldiniz</h1>
+    <p>Bu proje ile internetten veri çekebilir ve bu verileri ön işleme tabi tutarak analiz için hazırlayabilirsiniz.</p>
+    <div class="features">
+        <a href="/DataExtraction" class="feature">
+            <h3>Veri Çekme</h3>
+            <p>İnternetten veri çekme işlemleri için özel olarak tasarlanmış araçlarımızı kullanarak veri toplayın.</p>
+        </a>
+        <a href="/DataPreProcess" class="feature">
+            <h3>Veri Ön İşleme</h3>
+            <p>Verilerinizi ön işleme tabi tutarak temizleyin ve analiz için hazır hale getirin.</p>
+        </a>
+        <a href="/ManualLabel" class="feature">
+            <h3>Veri Manuel Etiketleme</h3>
+            <p>Verilerinizi manuel olarak etiketleyerek her bir veriye doğru anlamı kazandırın.</p>
+        </a>
+        <a href="/AutomaticLabel" class="feature">
+            <h3>Veri Otomatik Etiketleme</h3>
+            <p>Makine öğrenmesi algoritmalarıyla verilerinizi otomatik olarak etiketleyin ve hız kazanın.</p>
+        </a>
+    </div>
+</div>

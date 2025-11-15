@@ -1,0 +1,45 @@
+﻿@{
+    //Layout = null;
+}
+
+@model _221229064_BitirmeProjesi.Models.MemberViewModel
+
+@if (ViewData["ErrorMessage"] != null)
+{
+    <p style="color:red">@ViewData["ErrorMessage"]</p>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <p style="color:red">@TempData["ErrorMessage"]</p>
+}
+@if (TempData["SuccessMessage"] != null)
+{
+    <p style="color:green">@TempData["SuccessMessage"]</p>
+}
+
+<link rel="stylesheet" href="~/css/extraction.css" asp-append-version="true" />
+
+<div class="form-container">
+    <form method="post" asp-action="Index" asp-controller="DataExtraction">
+        <div class="form-group">
+            <label for="Site">Site Adı:</label>
+            <select id="Site" name="Site" required>
+                <option value="" disabled selected>Site Seçin</option>
+                <option value="Trendyol">Trendyol</option>
+                <option value="Hepsiburada">Hepsiburada</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="Link">Link:</label>
+            <input type="text" id="Link" name="Link" required />
+        </div>
+        <button type="submit">Veri Çek</button>
+    </form>
+</div>
+
+<div class="form-container">
+    <form method="post" asp-action="DownloadCsv" asp-controller="DataExtraction">
+        <button type="submit">Dosya İndir</button>
+    </form>
+</div>
+

@@ -1,0 +1,48 @@
+﻿@page
+@model _221229064_BitirmeProjesi.Models.MemberViewModel
+
+<link rel="stylesheet" href="~/css/automaticlabel.css" asp-append-version="true" />
+
+<div class="form-container">
+    <form method="post" asp-action="Index" asp-controller="AutomaticLabel" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="file">Dosya Seçin (.csv):</label>
+            <input type="file" id="file" name="file" accept=".csv" required />
+        </div>
+
+        <div class="form-group">
+            <label for="modelType">Model Türü Seçin:</label>
+            <div class="toggle-group">
+                <label class="toggle-button">
+                    <input type="radio" name="modelType" value="cnn" hidden required />
+                    <span class="toggle-label">CNN</span>
+                </label>
+                <label class="toggle-button">
+                    <input type="radio" name="modelType" value="rnn" hidden />
+                    <span class="toggle-label">RNN</span>
+                </label>
+                <label class="toggle-button">
+                    <input type="radio" name="modelType" value="lstm" hidden />
+                    <span class="toggle-label">LSTM</span>
+                </label>
+                <label class="toggle-button">
+                    <input type="radio" name="modelType" value="gru" hidden />
+                    <span class="toggle-label">GRU</span>
+                </label>
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Gönder</button>
+    </form>
+</div>
+
+<script>
+    document.querySelectorAll('.toggle-button').forEach(label => {
+        label.addEventListener('click', function () {
+            document.querySelectorAll('.toggle-button').forEach(btn => btn.classList.remove('active'));
+            label.classList.add('active');
+            label.querySelector("input[type='radio']").checked = true;
+        });
+    });
+</script>
+

@@ -1,0 +1,811 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\concrete\\sqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:concrete\\sqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\entities\\tblmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:entities\\tblmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\entities\\tblcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:entities\\tblcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\controllers\\panelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:controllers\\panelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\controllers\\datapreprocesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:controllers\\datapreprocesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\controllers\\automaticlabelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:controllers\\automaticlabelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\controllers\\dataextractioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:controllers\\dataextractioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\automaticlabel.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:wwwroot\\css\\automaticlabel.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\views\\automaticlabel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:views\\automaticlabel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\views\\manuallabel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:views\\manuallabel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\preprocess.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:wwwroot\\css\\preprocess.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\views\\datapreprocess\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:views\\datapreprocess\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\controllers\\manuallabelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:controllers\\manuallabelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\panel.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:wwwroot\\css\\panel.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:wwwroot\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\extraction.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:wwwroot\\css\\extraction.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\views\\panel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:views\\panel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\views\\dataextraction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:views\\dataextraction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\entities\\tblprocessedcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:entities\\tblprocessedcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\entities\\tblproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:entities\\tblproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\models\\memberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:models\\memberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\manager\\htmlauthoritymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:manager\\htmlauthoritymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bilal\\AppData\\Local\\Temp\\af60a36c-d359-4161-b782-48c1e0cb4f3f_221229064_BitirmeProjesi.zip.f3f\\221229064_BitirmeProjesi\\Views\\DataExtraction\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bilal\\AppData\\Local\\Temp\\6425ba7f-628d-43a1-ad51-0f798b6d5927_221229064_BitirmeProjesi.zip.927\\221229064_BitirmeProjesi\\Views\\DataExtraction\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\asdasdas\\web-app\\221229064_bitirmeprojesi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E922E97D-2C41-4A9D-AD08-CB8E07CDFAD6}|221229064_BitirmeProjesi.csproj|solutionrelative:221229064_bitirmeprojesi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bilal\\source\\repos\\221229064_BitirmeProjesi\\Views\\Members\\AddMember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bilal\\OneDrive\\Belgeler\\GitHub\\ml-final-project\\web-app\\product_scraper_output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\ManualLabel\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ManualLabel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\ManualLabel\\Index.cshtml",
+              "RelativeToolTip": "Views\\ManualLabel\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T09:52:04.362Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManualLabelController.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Controllers\\ManualLabelController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManualLabelController.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Controllers\\ManualLabelController.cs",
+              "RelativeToolTip": "Controllers\\ManualLabelController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:51:11.12Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PanelController.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Controllers\\PanelController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PanelController.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Controllers\\PanelController.cs",
+              "RelativeToolTip": "Controllers\\PanelController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:31:08.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TblComments.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Entities\\TblComments.cs",
+              "RelativeDocumentMoniker": "Entities\\TblComments.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Entities\\TblComments.cs",
+              "RelativeToolTip": "Entities\\TblComments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:31:08.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TblMembers.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Entities\\TblMembers.cs",
+              "RelativeDocumentMoniker": "Entities\\TblMembers.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Entities\\TblMembers.cs",
+              "RelativeToolTip": "Entities\\TblMembers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:31:08.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Concrete\\SqlDbContext.cs",
+              "RelativeDocumentMoniker": "Concrete\\SqlDbContext.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Concrete\\SqlDbContext.cs",
+              "RelativeToolTip": "Concrete\\SqlDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:31:08.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "home.css",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\home.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\home.css",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\home.css",
+              "RelativeToolTip": "wwwroot\\css\\home.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-18T11:56:24.703Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataExtractionController.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Controllers\\DataExtractionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DataExtractionController.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Controllers\\DataExtractionController.cs",
+              "RelativeToolTip": "Controllers\\DataExtractionController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAkwGUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:27:36.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutomaticLabelController.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Controllers\\AutomaticLabelController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AutomaticLabelController.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Controllers\\AutomaticLabelController.cs",
+              "RelativeToolTip": "Controllers\\AutomaticLabelController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwFYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:02:47.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T16:22:42.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataPreProcessController.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Controllers\\DataPreProcessController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DataPreProcessController.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Controllers\\DataPreProcessController.cs",
+              "RelativeToolTip": "Controllers\\DataPreProcessController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwv1MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:28:14.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "preprocess.css",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\preprocess.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\preprocess.css",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\preprocess.css",
+              "RelativeToolTip": "wwwroot\\css\\preprocess.css",
+              "ViewState": "AgIAADkAAAAAAAAAAAAcwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-18T10:51:30.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "automaticlabel.css",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\automaticlabel.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\automaticlabel.css",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\automaticlabel.css",
+              "RelativeToolTip": "wwwroot\\css\\automaticlabel.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-27T11:09:13.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\DataPreProcess\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\DataPreProcess\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\DataPreProcess\\Index.cshtml",
+              "RelativeToolTip": "Views\\DataPreProcess\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T10:37:23.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\AutomaticLabel\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\AutomaticLabel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\AutomaticLabel\\Index.cshtml",
+              "RelativeToolTip": "Views\\AutomaticLabel\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T11:06:24.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:28:25.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwBwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:31:08.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Controllers\\RegisterController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:44:57.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:21:55.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "product_scraper_output.txt",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Belgeler\\GitHub\\ml-final-project\\web-app\\product_scraper_output.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\Belgeler\\GitHub\\ml-final-project\\web-app\\product_scraper_output.txt",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Belgeler\\GitHub\\ml-final-project\\web-app\\product_scraper_output.txt",
+              "RelativeToolTip": "..\\..\\..\\Belgeler\\GitHub\\ml-final-project\\web-app\\product_scraper_output.txt",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-21T20:06:36.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:31:08.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-18T10:30:43.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "panel.css",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\panel.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\panel.css",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\panel.css",
+              "RelativeToolTip": "wwwroot\\css\\panel.css",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-25T11:24:40.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "wwwroot\\css\\login.css",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-18T12:11:25.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "layout.css",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\layout.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\layout.css",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\layout.css",
+              "RelativeToolTip": "wwwroot\\css\\layout.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-27T11:00:03.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "extraction.css",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\extraction.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\extraction.css",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\css\\extraction.css",
+              "RelativeToolTip": "wwwroot\\css\\extraction.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-18T11:55:04.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADEAAAC4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T09:47:52.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\Register\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Register\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\Register\\Index.cshtml",
+              "RelativeToolTip": "Views\\Register\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T00:30:21.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\Panel\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Panel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\Panel\\Index.cshtml",
+              "RelativeToolTip": "Views\\Panel\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAgwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T10:47:52.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\DataExtraction\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\DataExtraction\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\DataExtraction\\Index.cshtml",
+              "RelativeToolTip": "Views\\DataExtraction\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T10:31:13.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T15:31:08.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TblProcessedComments.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Entities\\TblProcessedComments.cs",
+              "RelativeDocumentMoniker": "Entities\\TblProcessedComments.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Entities\\TblProcessedComments.cs",
+              "RelativeToolTip": "Entities\\TblProcessedComments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:37:36.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-22T15:57:00.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TblProducts.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Entities\\TblProducts.cs",
+              "RelativeDocumentMoniker": "Entities\\TblProducts.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Entities\\TblProducts.cs",
+              "RelativeToolTip": "Entities\\TblProducts.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:31:08.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MemberViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Models\\MemberViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\MemberViewModel.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Models\\MemberViewModel.cs",
+              "RelativeToolTip": "Models\\MemberViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:31:08.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HtmlAuthorityManager.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Manager\\HtmlAuthorityManager.cs",
+              "RelativeDocumentMoniker": "Manager\\HtmlAuthorityManager.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Manager\\HtmlAuthorityManager.cs",
+              "RelativeToolTip": "Manager\\HtmlAuthorityManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:07:19.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T15:38:14.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T15:31:08.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T15:31:08.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml[Salt Okunur]",
+              "DocumentMoniker": "C:\\Users\\bilal\\AppData\\Local\\Temp\\6425ba7f-628d-43a1-ad51-0f798b6d5927_221229064_BitirmeProjesi.zip.927\\221229064_BitirmeProjesi\\Views\\DataExtraction\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\6425ba7f-628d-43a1-ad51-0f798b6d5927_221229064_BitirmeProjesi.zip.927\\221229064_BitirmeProjesi\\Views\\DataExtraction\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bilal\\AppData\\Local\\Temp\\6425ba7f-628d-43a1-ad51-0f798b6d5927_221229064_BitirmeProjesi.zip.927\\221229064_BitirmeProjesi\\Views\\DataExtraction\\Index.cshtml[Salt Okunur]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\6425ba7f-628d-43a1-ad51-0f798b6d5927_221229064_BitirmeProjesi.zip.927\\221229064_BitirmeProjesi\\Views\\DataExtraction\\Index.cshtml[Salt Okunur]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T16:39:14.595Z",
+              "EditorCaption": "[Salt Okunur]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilal\\AppData\\Local\\Temp\\af60a36c-d359-4161-b782-48c1e0cb4f3f_221229064_BitirmeProjesi.zip.f3f\\221229064_BitirmeProjesi\\Views\\DataExtraction\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\af60a36c-d359-4161-b782-48c1e0cb4f3f_221229064_BitirmeProjesi.zip.f3f\\221229064_BitirmeProjesi\\Views\\DataExtraction\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bilal\\AppData\\Local\\Temp\\af60a36c-d359-4161-b782-48c1e0cb4f3f_221229064_BitirmeProjesi.zip.f3f\\221229064_BitirmeProjesi\\Views\\DataExtraction\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\af60a36c-d359-4161-b782-48c1e0cb4f3f_221229064_BitirmeProjesi.zip.f3f\\221229064_BitirmeProjesi\\Views\\DataExtraction\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T12:15:50.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AddMember.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\221229064_BitirmeProjesi\\Views\\Members\\AddMember.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\221229064_BitirmeProjesi\\Views\\Members\\AddMember.cshtml",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\221229064_BitirmeProjesi\\Views\\Members\\AddMember.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\221229064_BitirmeProjesi\\Views\\Members\\AddMember.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T15:31:08.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-25T10:00:46.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:31:08.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T15:56:45.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T15:31:08.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T15:31:08.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T15:56:42.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "221229064_BitirmeProjesi.csproj",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\221229064_BitirmeProjesi.csproj",
+              "RelativeDocumentMoniker": "221229064_BitirmeProjesi.csproj",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\asdasdas\\web-app\\221229064_BitirmeProjesi.csproj",
+              "RelativeToolTip": "221229064_BitirmeProjesi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T15:31:08.711Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

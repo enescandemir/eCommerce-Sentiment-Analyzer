@@ -1,0 +1,97 @@
+﻿
+.form-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-container label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-container input[type="text"],
+.form-container input[type="file"] {
+    width: calc(100% - 22px);
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.toggle-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+    .toggle-group label {
+        margin-left: 10px;
+    }
+
+.toggle-switch {
+    position: relative;
+    display: inline-block;
+    width: 34px;
+    height: 20px;
+}
+
+    .toggle-switch input {
+        display: none;
+    }
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: 0.4s;
+    border-radius: 34px;
+}
+
+    .slider:before {
+        position: absolute;
+        content: "";
+        height: 14px;
+        width: 14px;
+        left: 3px;
+        bottom: 3px;
+        background-color: white;
+        transition: 0.4s;
+        border-radius: 50%;
+    }
+
+input:checked + .slider {
+    background-color: #007bff;
+}
+
+    input:checked + .slider:before {
+        transform: translateX(14px);
+    }
+
+.form-container button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    .form-container button:hover {
+        background-color: #0056b3;
+    }
+

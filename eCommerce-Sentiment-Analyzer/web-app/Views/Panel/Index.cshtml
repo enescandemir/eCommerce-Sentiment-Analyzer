@@ -1,0 +1,95 @@
+﻿@model List<_221229064_BitirmeProjesi.Entities.TblMembers>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Members</title>
+    <link rel="stylesheet" href="~/css/panel.css" asp-append-version="true" />
+</head>
+<body>
+    <header class="header1">
+        <h1>Tüm Üyeler</h1>
+    </header>
+    @if (ViewBag.Message != null)
+
+    {
+        <p> @ViewBag.Message </p>
+    }
+    @if (ViewBag.ErrorMessage != null)
+
+    {
+        <p> @ViewBag.ErrorMessage </p>
+    }
+    @if (TempData["Message"] != null)
+
+    {
+        <p style="color:red"> @TempData["Message"] </p>
+    }
+    @if (TempData["ErrorMessage"] != null)
+
+    {
+        <p style="color:red"> @TempData["ErrorMessage"] </p>
+    }
+    <div class="container1">
+        <table class="notlar-table1">
+            <thead>
+                <tr>
+                    <th class="parameters">ID</th>
+                    <th class="parameters">İsim</th>
+                    <th class="parameters">Soyisim</th>
+                    <th class="parameters">Email</th>
+                    <th class="parameters">Kayıt Tarihi</th>
+                    <th class="parameters">Email Kontrol</th>
+                    <th class="parameters">IsAdmin</th>
+                    <th class="parameters">IsActive</th>
+                    <th class="parameters">İşlemler</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var member in Model ?? Enumerable.Empty<_221229064_BitirmeProjesi.Entities.TblMembers>())
+                {
+                    <tr>
+                        <td>@member.MemberID</td>
+                        <td>@member.FirstName</td>
+                        <td>@member.LastName</td>
+                        <td>@member.Email</td>
+                        <td>@member.RegistrationDate</td>
+                        <td>@member.EmailCheck</td>
+                        <td>@member.IsAdmin</td>
+                        <td>@member.IsActive</td>
+                        <td>
+                            <button class="btn btn-green" onclick="showPassword('@member.Password')">Şifre Göster</button>
+                            @if (member.IsAdmin == 0)
+                            {
+                                <form action="/Panel/MakeAdmin" method="post" onsubmit="return confirm('Bu üyeyi Admin yapmak istediğinize emin misiniz?');">
+                                    <input type="hidden" name="MemberID" value="@member.MemberID" />
+                                    <button class="btn btn-yellow">Admin Yap</button>
+                                </form>
+                            }
+                            else
+                            {
+                                <form action="/Panel/RemoveAdmin" method="post" onsubmit="return confirm('Bu üyeyi Admin yapmak istediğinize emin misiniz?');">
+                                    <input type="hidden" name="MemberID" value="@member.MemberID" />
+                                    <button class="btn btn-yellow">Adminiği Kaldır</button>
+                                </form>
+                            }
+                            <form action="/Panel/DeleteAccount" method="post" onsubmit="return confirm('Bu üyeyi silmek istediğinizden emin misiniz?');">
+                                <input type="hidden" name="MemberID" value="@member.MemberID" />
+                                <button type="submit" class="btn btn-red">Üyeyi Sil</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        function showPassword(Password) {
+            alert("Kullanıcı şifresi: " + Password);
+        }
+    </script>
+</body>
+</html>

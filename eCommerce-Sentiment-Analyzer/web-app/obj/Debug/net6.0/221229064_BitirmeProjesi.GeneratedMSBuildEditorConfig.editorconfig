@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _221229064_BitirmeProjesi
+build_property.RootNamespace = _221229064_BitirmeProjesi
+build_property.ProjectDir = C:\Users\bilal\OneDrive\Masaüstü\asdasdas\web-app\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\bilal\OneDrive\Masaüstü\asdasdas\web-app
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/bilal/OneDrive/Masaüstü/asdasdas/web-app/Views/AutomaticLabel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b21hdGljTGFiZWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bilal/OneDrive/Masaüstü/asdasdas/web-app/Views/DataExtraction/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0YUV4dHJhY3Rpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bilal/OneDrive/Masaüstü/asdasdas/web-app/Views/DataPreProcess/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0YVByZVByb2Nlc3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bilal/OneDrive/Masaüstü/asdasdas/web-app/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bilal/OneDrive/Masaüstü/asdasdas/web-app/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bilal/OneDrive/Masaüstü/asdasdas/web-app/Views/ManualLabel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudWFsTGFiZWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bilal/OneDrive/Masaüstü/asdasdas/web-app/Views/Panel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFuZWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bilal/OneDrive/Masaüstü/asdasdas/web-app/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bilal/OneDrive/Masaüstü/asdasdas/web-app/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bilal/OneDrive/Masaüstü/asdasdas/web-app/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bilal/OneDrive/Masaüstü/asdasdas/web-app/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bilal/OneDrive/Masaüstü/asdasdas/web-app/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bilal/OneDrive/Masaüstü/asdasdas/web-app/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vi2psgyu5b

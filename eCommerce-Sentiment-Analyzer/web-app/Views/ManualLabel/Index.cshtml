@@ -1,0 +1,77 @@
+﻿@model List<_221229064_BitirmeProjesi.Entities.TblProcessedComments>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yorumlar</title>
+    <link rel="stylesheet" href="~/css/panel.css" asp-append-version="true" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <header class="header1">
+        <h1>Yorumlar</h1>
+    </header>
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <p style="color:red"> @TempData["ErrorMessage"] </p>
+    }
+
+    <div class="container1">
+        <table class="notlar-table1">
+            <thead>
+                <tr>
+                    <th class="parameters">ID</th>
+                    <th class="parameters">Yorum</th>
+                    <th class="parameters">Etiket</th>
+                    <th class="parameters">Etiketleyen Kişi</th>
+                    <th class="parameters">İşlemler</th>
+                </tr>
+            </thead>
+            <tbody id="commentsTable">
+                @foreach (var comment in Model ?? Enumerable.Empty<_221229064_BitirmeProjesi.Entities.TblProcessedComments>())
+                {
+                    <tr id="comment-@comment.Comment_ID">
+                        <td>@comment.Comment_ID</td>
+                        <td>@comment.Comment_Context</td>
+                        <td class="ticket-status">
+                            @(comment.Comment_Context_Ticket == 2 ? "İyi" :
+                                comment.Comment_Context_Ticket == 1 ? "Nötr" :
+                                comment.Comment_Context_Ticket == 0 ? "Kötü" : "Belirtilmemiş")
+                        </td>
+                        <td>@comment.LabeledBy</td>
+                        <td>
+                            <button class="btn btn-green" onclick="labelComment(@comment.Comment_ID, 2)">İyi Yorum</button>
+                            <button class="btn btn-yellow" onclick="labelComment(@comment.Comment_ID, 1)">Nötr Yorum</button>
+                            <button class="btn btn-red" onclick="labelComment(@comment.Comment_ID, 0)">Kötü Yorum</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <form method="post" asp-action="DownloadProcessedCsv" asp-controller="ManualLabel">
+            <button type="submit">Etiketlenmiş Dosya İndir</button>
+        </form>
+    </div>
+
+    <script>
+        function labelComment(commentId, label) {
+            $.ajax({
+                url: '@Url.Action("LabelComment", "ManualLabel")',
+                type: 'POST',
+                data: { commentId: commentId, label: label },
+                success: function () {
+                    // basariliysa yorumu etiketle
+                    const row = $("#comment-" + commentId);
+                    const statusCell = row.find(".ticket-status");
+                    statusCell.text(label === 2 ? "İyi" : label === 1 ? "Nötr" : "Kötü");
+                },
+                error: function () {
+                    alert("Bir hata oluştu. Lütfen tekrar deneyin.");
+                }
+            });
+        }
+    </script>
+</body>
+</html>

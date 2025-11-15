@@ -1,0 +1,82 @@
+﻿.header1 {
+    background-color: #ffffff;
+    color: #007bff;
+    padding: 15px;
+    text-align: center;
+    border-bottom: 2px solid #007bff;
+}
+
+.container1 {
+    width: 100%;
+    margin: 20px auto;
+    background-color: #ffffff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.notlar-table1 {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+    .notlar-table1 th, .notlar-table1 td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+
+    .notlar-table1 th {
+        background-color: #f2f2f2;
+        color: #333333;
+    }
+
+    .notlar-table1 tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+    .notlar-table1 tr:hover {
+        background-color: #f1f1f1;
+    }
+
+.parameters {
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    font-size: 14px;
+    color: #333333;
+    margin-top: 10px;
+    text-align: center;
+}
+
+    p[style="color:red"] {
+        color: red;
+        font-weight: bold;
+    }
+
+.btn {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    color: #fff;
+}
+
+.btn-green {
+    background-color: #28a745;
+}
+
+.btn-yellow {
+    background-color: #ffc107;
+}
+
+.btn-red {
+    background-color: #dc3545;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}

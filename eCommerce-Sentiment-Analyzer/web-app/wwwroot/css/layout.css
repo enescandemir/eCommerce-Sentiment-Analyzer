@@ -1,0 +1,23 @@
+﻿button {
+    padding: 10px 20px;
+    margin: 0px 5px 0px 0px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    white-space: nowrap; 
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.user_name {
+    display: flex;
+    margin-top: 17px;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\221229064_BitirmeProjesi.props" />
+</Project>

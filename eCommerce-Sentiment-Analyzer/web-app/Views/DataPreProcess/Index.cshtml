@@ -1,0 +1,77 @@
+﻿@page
+@model _221229064_BitirmeProjesi.Models.MemberViewModel
+
+<link rel="stylesheet" href="~/css/preprocess.css" asp-append-version="true" />
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+<div class="form-container">
+    <form method="post" asp-action="Index" asp-controller="DataPreProcess" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="File">Dosya Seçin (.csv):</label>
+            <input type="file" id="File" name="File" accept=".csv" required />
+        </div>
+
+        <div class="toggle-group">
+            <label for="Lowercase">Tüm Harfler Küçük Olsun</label>
+            <label class="toggle-switch">
+                <input type="checkbox" id="Lowercase" name="Lowercase" value="true" />
+                <span class="slider"></span>
+            </label>
+        </div>
+
+        <div class="toggle-group">
+            <label for="RemoveNumbers">Sayıları Kaldır</label>
+            <label class="toggle-switch">
+                <input type="checkbox" id="RemoveNumbers" name="RemoveNumbers" value="true" />
+                <span class="slider"></span>
+            </label>
+        </div>
+
+        <div class="toggle-group">
+            <label for="RemovePunctuation">Noktalama İşaretlerini Kaldır</label>
+            <label class="toggle-switch">
+                <input type="checkbox" id="RemovePunctuation" name="RemovePunctuation" value="true" />
+                <span class="slider"></span>
+            </label>
+        </div>
+
+        <div class="toggle-group">
+            <label for="RemoveEmojis">Emojileri Kaldır</label>
+            <label class="toggle-switch">
+                <input type="checkbox" id="RemoveEmojis" name="RemoveEmojis" value="true" />
+                <span class="slider"></span>
+            </label>
+        </div>
+
+        <div class="toggle-group">
+            <label for="CharacterRepetitionReduction">Tekrar Eden Karakterleri Kaldır</label>
+            <label class="toggle-switch">
+                <input type="checkbox" id="CharacterRepetitionReduction" name="CharacterRepetitionReduction" value="true" />
+                <span class="slider"></span>
+            </label>
+        </div>
+
+        <div class="toggle-group">
+            <label for="StopwordRemoval">Duraksama Kelimelerini Kaldır</label>
+            <label class="toggle-switch">
+                <input type="checkbox" id="StopwordRemoval" name="StopwordRemoval" value="true" />
+                <span class="slider"></span>
+            </label>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Gönder</button>
+    </form>
+</div>

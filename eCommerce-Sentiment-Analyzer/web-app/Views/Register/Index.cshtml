@@ -1,0 +1,35 @@
+﻿@model _221229064_BitirmeProjesi.Models.MemberViewModel
+
+<link rel="stylesheet" href="~/css/login.css" asp-append-version="true" />
+
+<div class="login-container">
+    <h2>Kayıt Ol</h2>
+    @if (ViewData["ErrorMessage"] != null)
+    {
+        <p class="error-message">@ViewData["ErrorMessage"]</p>
+    }
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <p class="error-message">@TempData["ErrorMessage"]</p>
+    }
+
+    <form method="post" asp-action="Index" asp-controller="Register">
+        <div>
+            <label for="FirstName">Ad:</label>
+            <input type="text" id="FirstName" name="FirstName" required />
+        </div>
+        <div>
+            <label for="LastName">Soyad:</label>
+            <input type="text" id="LastName" name="LastName" required />
+        </div>
+        <div>
+            <label for="Email">Email:</label>
+            <input type="email" id="Email" name="Email" required />
+        </div>
+        <div>
+            <label for="Password">Şifre:</label>
+            <input type="password" id="Password" name="Password" required />
+        </div>
+        <button type="submit">Kayıt Ol</button>
+    </form>
+</div>
